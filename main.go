@@ -28,7 +28,7 @@
 // swagger:meta
 package main
 
-import "github.com/servian/TechChallengeApp/cmd"
+import "github.com/cabecadeprego/testingapp/cmd"
 
 func main() {
 	cmd.Execute()

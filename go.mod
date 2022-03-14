@@ -1,4 +1,4 @@
-module github.com/servian/TechChallengeApp
+module github.com/cabecadeprego/testingapp
 
 go 1.14
 
