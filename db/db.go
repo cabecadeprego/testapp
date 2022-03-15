@@ -27,8 +27,8 @@ import (
 
 	"github.com/lib/pq"
 
-	"github.com/cabecadeprego/testingapp/model"
 	_ "github.com/lib/pq"
+	"github.com/servian/TechChallengeApp/model"
 )
 
 // Config - configuration for the db package

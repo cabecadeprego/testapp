@@ -27,7 +27,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/cabecadeprego/testingapp/ui"
+	"github.com/servian/TechChallengeApp/ui"
 )
 
 // Config - configuration for daemon package
